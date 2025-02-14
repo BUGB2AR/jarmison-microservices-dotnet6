@@ -1,0 +1,39 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "APIASPNET",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Calculator": {
+      "get": {
+        "tags": [
+          "Calculator"
+        ],
+        "operationId": "sum/{firstNumber}/{secoundNumber}",
+        "parameters": [
+          {
+            "name": "firstNumber",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "secoundNumber",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

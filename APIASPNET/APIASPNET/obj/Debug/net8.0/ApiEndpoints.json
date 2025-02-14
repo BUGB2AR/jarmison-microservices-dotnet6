@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "APIASPNET.Controllers.CalculatorController",
+    "Method": "Get",
+    "RelativePath": "Calculator",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "secoundNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "sum/{firstNumber}/{secoundNumber}"
+  }
+]

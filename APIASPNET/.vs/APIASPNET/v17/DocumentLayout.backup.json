@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\developer\\jarmison-microservices-dotnet6\\APIASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7672BBCD-07FA-4D0D-8E6F-287471E9129F}|APIASPNET\\APIASPNET.csproj|c:\\developer\\jarmison-microservices-dotnet6\\apiaspnet\\apiaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672BBCD-07FA-4D0D-8E6F-287471E9129F}|APIASPNET\\APIASPNET.csproj|solutionrelative:apiaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\developer\\jarmison-microservices-dotnet6\\APIASPNET\\APIASPNET\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "APIASPNET\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\developer\\jarmison-microservices-dotnet6\\APIASPNET\\APIASPNET\\Controllers\\CalculatorController.cs*",
+              "RelativeToolTip": "APIASPNET\\Controllers\\CalculatorController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:27:38.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
